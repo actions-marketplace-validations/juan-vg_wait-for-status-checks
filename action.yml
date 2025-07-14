@@ -1,6 +1,6 @@
-name: 'wait-for-checks'
-description: 'Wait for GitHub Status Checks'
-author: 'juan-vg'
+name: Wait for status checks by Juan-VG
+description: Wait for GitHub Status Checks
+author: Juan-VG
 branding:
   icon: check-circle
   color: green
