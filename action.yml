@@ -1,6 +1,6 @@
 name: 'wait-for-checks'
 description: 'Wait for GitHub Status Checks'
-author: 'poseidon'
+author: 'juan-vg'
 branding:
   icon: check-circle
   color: green

@@ -1,6 +1,6 @@
 {
   "name": "wait-for-status-checks",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "private": true,
   "description": "Typescript GitHub Action for waiting for status checks",
   "main": "lib/main.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/poseidon/wait-for-status-checks.git"
+    "url": "git+https://github.com/juan-vg/wait-for-status-checks.git"
   },
   "keywords": [
     "actions",
